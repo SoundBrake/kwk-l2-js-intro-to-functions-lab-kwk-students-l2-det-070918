@@ -4,4 +4,4 @@ function getUKTime(){
   return new Date().getHours() + 5
 }
 
-
+function discountTicket

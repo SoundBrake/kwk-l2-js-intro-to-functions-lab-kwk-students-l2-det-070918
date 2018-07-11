@@ -7,3 +7,7 @@ function getUKTime(){
 function discountTicket(x){
   return x * 0.8
 }
+
+function tweetReply(x){
+  return "Hey ${x}, thanks so much for the support! I rea"
+}

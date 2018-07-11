@@ -9,5 +9,5 @@ function discountTicket(x){
 }
 
 function tweetReply(x){
-  return "Hey "+ x + ", thanks so much for the support! I really appreciated it!"
+  return "Hey "+ x + ", thanks so much for the support! I really appreciate it!"
 }
